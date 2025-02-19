@@ -1,6 +1,6 @@
 ---
 title: Joris shared his story of studying at Westlake University
-date: 2023-01
+date: 2023-01-15
 image:
   focal_point: 'top'
 ---
