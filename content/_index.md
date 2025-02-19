@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Quantum Optoelectronics Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Quantum Optoelectronics Lab** has been a center of excellence for Polaritonics research, teaching, and practice since its founding in 2018.
   
   - block: collection
     content:
