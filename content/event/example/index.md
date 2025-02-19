@@ -1,10 +1,10 @@
 ---
 title: Example Event
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: 25th International Conference on Physics of Light-Matter Coupling in Nanostructures，PLMCN25
+event_url: http://www.plmcn2025.cn
 
-location: Wowchemy HQ
+location: Xiamen
 address:
   street: 450 Serra Mall
   city: Stanford
