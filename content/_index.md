@@ -10,7 +10,7 @@ sections:
       title: |
         Quantum Optoelectronics Lab
       image:
-        filename: welcome.jpg
+        filename: homepage.jpg
       text: |
         <br>
         
