@@ -22,7 +22,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
   - Light mater interactions with special emphasis on low dimensional semiconductor nanostructures including the design and realization of optoelectronic devices based on fundamentally novel principles
-  - Novel polariton based optoelectronic devices: laser diodes, transistors, THz bolometers
+  - Novel polariton based optoelectronic devices:laser diodes, transistors, THz bolometers
   - Polariton quantum fluids and circuits
   - Polariton condensate lattices for quantum simulation
   - Hybrid organic-inorganic semiconductor microcavities
