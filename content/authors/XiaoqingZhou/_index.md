@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Xiaoqing Zhou
+title: Xiaoqing Zhou
 
 # Full Name (for SEO)
 first_name: Xiaoqing
