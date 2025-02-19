@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2025-02-19
 type: landing
 
 sections:
@@ -13,7 +13,6 @@ sections:
         filename: homepage.jpg
       text: |
         <br>
-        
         The **Quantum Optoelectronics Lab** has been a center of excellence for Polaritonics research, teaching, and practice since its founding in 2018.
   
   - block: collection

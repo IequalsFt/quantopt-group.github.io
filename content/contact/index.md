@@ -13,20 +13,20 @@ sections:
       email: p.savvidis@westlake.edu.cn
       phone: 15267142145
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: No. 600 Dunyu Road
+        city: Hangzhou
+        region: Xihu District
+        postcode: '310030'
+        country: P.R. China
+        country_code: CH
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '120.03370399999994'
+        longitude: '30.330488999999996'
+      directions: Lab building E5-B112 Office Building E5-220 Yungu Campus
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
+      #appointment_url: ''
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
