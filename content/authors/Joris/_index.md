@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Zhen Cui
+title: Joris Barrat Gilbert
 
 # Full Name (for SEO)
-first_name: Zhen
-last_name: Cui
+first_name: Joris
+last_name: Barrat Gilbert
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
   - Semiconductor heterostructures \& nanostrctures 
@@ -42,7 +42,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:cuizhen@westlake.edu.cn'
+    link: 'mailto:joris.barrat.gilbert@westlake.edu.cn'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -50,7 +50,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'cuizhen@westlake.edu.cn'
+email: 'joris.barrat.gilbert@westlake.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -61,6 +61,6 @@ user_groups:
   - PhD Students
 ---
 
-Zhen Cui（崔祯）received a bachelor's degree in physics from Southern University of Science and Technology in 2019; from 2019 to 2020, he worked as a research assistant at Shenzhen Institute for Quantum Science and Engineering. In August 2020, he was admitted as a doctoral student by West Lake University, engaged in polariton related research.
+Introducing Joris Barrat, a driven PhD student in our research group. Joris completed his undergraduate studies in Electronics and Automation at Montpellier University of Science, followed by a master's degree in Optics and Microwave. He gained valuable experience through internships at City University of Hong Kong and DLR in Munich, focusing on laser technologies and high-speed optical transmission.
 
-Zhen mainly studies the physical realization of quantum computing under the polariton system. In 2018, he entered the Shenzhen Institute of Quantum Science and Engineering to engage in related research work on superconducting quantum devices. He designed and fabricated Josephson parametric amplifiers. As the first attempt by SUSTech undergraduates in superconducting quantum devices, this work was rated as 2019 Excellent graduation design of Southern University of Science and Technology. In July 2019, Zhen served as research assistant of Shenzhen Institute of Quantum Science and Engineering, and followed the professor Georgios A. Siviloglou to study the numerical simulation method of quantum computing gate operation under the optical tweezers system.
+With prior experience as a Laser Engineer in Lannion, France, Joris joined us at Westlake University in Hangzhou in 2021 to pursue his PhD. His current research centers around the exciting field of polariton ring condensate, exploring its potential as a platform for quantum computing. When not immersed in scientific pursuits, Joris finds solace in exploring the scenic mountains surrounding Hangzhou.
