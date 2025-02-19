@@ -13,9 +13,9 @@ sections:
       email: p.savvidis@westlake.edu.cn
       phone: 15267142145
       address:
-        street: No. 600 Dunyu Road
+        street: No. 600 Dunyu Road, Xihu District
         city: Hangzhou
-        region: Xihu District
+        region: Zhejiang Province
         postcode: '310030'
         country: P.R. China
         country_code: CH
