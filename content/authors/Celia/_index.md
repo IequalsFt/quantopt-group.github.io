@@ -15,7 +15,7 @@ role: Administrative Assistant
 # Organizations/Affiliations
 organizations:
   - name: Westlake University
-    url: ''
+    url: 'https://www.westlake.edu.cn'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

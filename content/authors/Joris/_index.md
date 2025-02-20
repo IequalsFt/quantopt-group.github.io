@@ -15,13 +15,13 @@ role: PhD Student
 # Organizations/Affiliations
 organizations:
   - name: Westlake University
-    url: ''
+    url: 'https://www.westlake.edu.cn'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-  - Semiconductor heterostructures \& nanostrctures 
+#interests:
+#  - Semiconductor heterostructures \& nanostrctures 
 
 #education:
 #  courses:
