@@ -23,9 +23,9 @@ sections:
         latitude: '120.03370399999994'
         longitude: '30.330488999999996'
       directions: Lab building E5-B112 Office Building E5-220 Yungu Campus
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+      #office_hours:
+      #  - 'Monday 10:00 to 13:00'
+      #  - 'Wednesday 09:00 to 10:00'
       #appointment_url: ''
       #contact_links:
       #  - icon: comments
