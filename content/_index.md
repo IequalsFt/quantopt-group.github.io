@@ -12,9 +12,7 @@ sections:
       image:
         filename: homepage.jpg
       text: |
-        <br>
-        
-       The **Quantum Optoelectronics Lab** has been a center of excellence for Polaritonics research, teaching, and practice since its founding in 2018.
+        <br>The **Quantum Optoelectronics Lab** has been a center of excellence for Polaritonics research, teaching, and practice since its founding in 2018.
   
   - block: collection
     content:
