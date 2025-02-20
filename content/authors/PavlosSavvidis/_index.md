@@ -28,10 +28,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #  - Polariton condensate lattices for quantum simulation
 #  - Hybrid organic-inorganic semiconductor microcavities
 
-teaching courses:
-    - course: Advanced Optical Experiments
-      institution: Westlake University
-      year: 2025
+#teaching courses:
+#    - course: Advanced Optical Experiments
+#      institution: Westlake University
+#      year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
