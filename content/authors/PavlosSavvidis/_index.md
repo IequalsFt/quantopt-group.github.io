@@ -28,8 +28,7 @@ interests:
   - Polariton condensate lattices for quantum simulation
   - Hybrid organic-inorganic semiconductor microcavities
 
-Teaching:
-  courses:
+teaching courses:
     - course: Advanced Optical Experiments
       institution: Westlake University
       year: 2025
