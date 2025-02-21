@@ -29,7 +29,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "PHYSICAL REVIEW LETTERS 134, 063802"
+publication: ""
 publication_short: ""
 
 abstract: Ising machines are an emerging class of hardware that promises ultrafast and energy-efficient solutions
