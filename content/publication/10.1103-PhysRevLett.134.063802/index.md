@@ -1,5 +1,5 @@
 ---
-title: "Optically and remotely controlling localization of exciton-polariton condensates in a potential lattice"
+title: "Fully Programmable Spatial Photonic Ising Machine by Focal Plane Division"
 authors:
     - Daniele Veraldi
     - Davide Pierangeli

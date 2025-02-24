@@ -17,7 +17,7 @@ date: "2025-02-12T00:00:00Z"
 doi: "10.1103/PhysRevApplied.23.024029"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-02-24T15:44:00Z"
+publishDate: "2025-02-23T15:44:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
