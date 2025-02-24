@@ -24,7 +24,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Science Advances. **10**, eado4042 (2024)"
-publication_short: "Sci. Adv."
+publication_short: "Sci. Adv. **10**, eado4042 (2024)"
 
 abstract: We report on the experimental realization and characterization of a qubit analog with semiconductor exciton-polaritons. In our system, a polaritonic condensate is confined by a spatially patterned pump laser in an annular trap that supports energy-degenerate vortex states of the polariton superfluid. Using temporal interference measurements, we observe coherent oscillations between a pair of counter-circulating vortex states coupled by elastic scattering of polaritons off the laser-imprinted potential. The qubit basis states correspond to the symmetric and antisymmetric superpositions of the two vortex states. By engineering the potential, we tune the coupling and coherent oscillations between the two circulating current states, control the energies of the qubit basis states, and initialize the qubit in the desired state. The dynamics of the system is accurately reproduced by our theoretical two-state model, and we discuss potential avenues to implement quantum gates and algorithms with polaritonic qubits analogous to quantum computation with standard qubits.
 # Summary. An optional shortened abstract.
@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-#url_pdf: 
+url_pdf: 'https://www.science.org/doi/epdf/10.1126/sciadv.ado4042' 
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
