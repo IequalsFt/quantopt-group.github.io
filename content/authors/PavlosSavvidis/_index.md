@@ -18,7 +18,7 @@ organizations:
     url: 'https://www.westlake.edu.cn'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
   - Light mater interactions with special emphasis on low dimensional semiconductor nanostructures
@@ -27,6 +27,15 @@ interests:
   - Polariton quantum fluids and circuits
   - Polariton condensate lattices for quantum simulation
   - Hybrid organic-inorganic semiconductor microcavities
+
+education:
+ courses:
+   - course: Ph.D. in Experimental Condensed Matter and Laser Physics
+     institution: the University of Southampton
+     year: 2001
+   - course: BSc in Physics
+     institution: the University of Athens
+     year:
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -46,7 +55,7 @@ social:
 email: 'p.savvidis@westlake.edu.cn'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
