@@ -23,17 +23,14 @@ bio:
 #interests:
 #  - Semiconductor heterostructures \& nanostrctures 
 
-#education:
-#  courses:
-#    - course: PhD in Artificial Intelligence
-#      institution: Stanford University
-#      year: 2012
-#    - course: MEng in Artificial Intelligence
-#      institution: Massachusetts Institute of Technology
-#      year: 2009
-#    - course: BSc in Artificial Intelligence
-#      institution: Massachusetts Institute of Technology
-#      year: 2008
+education:
+ courses:
+   - course: MEng in Optics and Microwave
+     institution: Montpellier University of Science
+     year: 
+   - course: BSc in Electronics and Automation
+     institution: Montpellier University of Science
+     year: 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -53,7 +50,7 @@ social:
 email: 'joris.barrat.gilbert@westlake.edu.cn'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
