@@ -7,7 +7,7 @@ first_name: Kapitonov
 last_name: Yury
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Assistant Professor

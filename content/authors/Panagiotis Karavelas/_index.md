@@ -7,7 +7,7 @@ first_name: Panagiotis
 last_name: Karavelas
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Postgraduate

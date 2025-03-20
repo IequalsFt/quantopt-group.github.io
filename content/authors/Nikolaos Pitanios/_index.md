@@ -7,7 +7,7 @@ first_name: Nikolaos
 last_name: Pitanios
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Graduate

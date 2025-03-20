@@ -7,7 +7,7 @@ first_name: Ce
 last_name: Xu
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Administrative Assistant

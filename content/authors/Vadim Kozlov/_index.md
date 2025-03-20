@@ -7,7 +7,7 @@ first_name: Vadim
 last_name:  Kozlov
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: PhD student
